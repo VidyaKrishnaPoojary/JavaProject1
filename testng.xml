@@ -1,0 +1,7 @@
+<suite name="Suite">
+  <test  name="Test">
+  <pakages>
+  <pakages name="script"/>
+  </pakages>
+  </test> 
+</suite> 
